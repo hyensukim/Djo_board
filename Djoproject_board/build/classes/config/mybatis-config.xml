@@ -6,7 +6,7 @@
   <properties>
 	  <property name="hostname" value="localhost" />
       <property name="driver" value="com.mysql.cj.jdbc.Driver" />
-      <property name="url" value="jdbc:mysql://localhost:3306/jsp_board" />
+      <property name="url" value="jdbc:mysql://localhost:3306/Djo_board" />
       <property name="username" value="root" />
       <property name="password" value="aA!123456" />
   </properties>
